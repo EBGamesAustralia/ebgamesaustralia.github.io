@@ -1,5 +1,3 @@
-# EB Games Australia
-
 Hello world.
 
 
